@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kjgleh/msa-config-repository.git
+          uri: file:////Users/junggeunkim/Workspace/kjg.leh/msa-config-repository
 
