@@ -1,10 +1,10 @@
-package me.kjgleh.msaconfig
+package me.kjgleh.msa.config
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class MsaConfigApplicationTests {
+class ApplicationTests {
 
     @Test
     fun contextLoads() {
